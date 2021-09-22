@@ -1,5 +1,9 @@
 # Welcome!
 
-_Website details:_https://blackyukios.github.io/ 
+__Website details:__ https://blackyukios.github.io/ 
+
+- SuperViP: `https://git.io/JzEZU`
+- Pearlxx: `https://git.io/JzEZW`
+- App-Premium: `https://git.io/JzEZR`
 
 Made in Black YukiOS
