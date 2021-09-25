@@ -6,4 +6,6 @@ __Website details:__ https://blackyukios.github.io/
 - Pearlxx: `https://git.io/JzEZW`
 - App-Premium: `https://git.io/JzEZR`
 
-Made in Black YukiOS
+Video Tutorial Active Pearlxx: (Video)[https://drive.google.com/file/d/1NHSLR1xm8C_gjDEp4MYs1pHzJDE7kgO6/view]
+
+_Made in Black YukiOS_
