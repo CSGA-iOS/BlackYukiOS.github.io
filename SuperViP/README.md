@@ -18,9 +18,9 @@
 
 ● Tháng 9: `
 
-● Tháng 10: `https://git.io/J27wt`
+● Tháng 10: `https://git.io/Jw5nq`
 
-● Tháng 11: ``
+● Tháng 11: `https://git.io/Jw5GI`
 
 ● Thấng 12: `
 
