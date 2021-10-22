@@ -1,0 +1,15 @@
+[MITM]
+hostname = apimboom2.globaldelight.net, mobile-api.adguard.com, planner5d.com, api.adblockpro.app
+
+[Script]
+#Boom
+http-response ^https:\/\/apimboom2\.globaldelight\.net\/itunesreceipt_v2\.php$ requires-body=true,max-size=0,script-path=https://blackyukios.cf/scripts/IBoom.js, script-update-interval=0
+
+#adguardpremium
+http-response ^https:\/\/mobile-api\.adguard\.com\/api\/1\.0\/ios_validate_receipt$ requires-body=true,max-size=0,script-path=https://blackyukios.cf/scripts/adguard.js, script-update-interval=0
+
+#AdblockPro
+http-response ^https:\/\/api\.adblockpro\.app\/zone\/verify.php requires-body=true,max-size=0,script-path=https://blackyukios.cf/scripts/AdblockPro.js, script-update-interval=0
+
+#planner5d
+http-response ^https:\/\/planner5d\.com\/api\/sets requires-body=true,max-size=0,script-path=https://blackyukios.cf/scripts/planner5d.js, script-update-interval=0
