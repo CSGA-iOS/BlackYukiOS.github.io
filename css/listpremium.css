@@ -16,6 +16,11 @@
   margin: 20px 570px 0 0;
 }
 
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-list-1 {
   width: 570px;
   margin: 30px auto 60px 0;
