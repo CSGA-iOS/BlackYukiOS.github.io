@@ -2,7 +2,7 @@
 
 ### ```Áp dụng toàn bộ iOS (Applies to all iOS):```
 
-|Application|Auto Active |Restore|
+|Application|Auto Active |Restore Purchase|
 |--------------|:------:|:------:|
 |1. [Picsart Photo & Video Editor](https://apps.apple.com/us/app/picsart-photo-video-editor/id587366035) | ✅|
 |2. [KineMaster - Video Editor](https://apps.apple.com/us/app/kinemaster-video-editor/id1223932558) |✅|
@@ -84,7 +84,7 @@
 --------------------
 ### ```Chỉ hỗ trợ iOS 13 (Only support iOS 13):```
 
-|Application|Auto Active |Restore|
+|Application|Auto Active |Restore Purchase|
 |--------------|:------:|:------:|
 |1. [Videoleap Editor by Lightricks](https://apps.apple.com/us/app/videoleap-editor-by-lightricks/id1255135442) ||✅|
 |2. [Photoleap by Lightricks](https://apps.apple.com/us/app/photoleap-by-lightricks/id1191337894) ||✅|
