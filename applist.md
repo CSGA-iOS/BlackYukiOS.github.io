@@ -1,9 +1,9 @@
-# Danh sách ứng dụng đang được hỗ trợ:
+# Danh sách ứng dụng đang được hỗ trợ (List of currently supported applications):
 
-### ```Áp dụng toàn bộ iOS:```
+### ```Áp dụng toàn bộ iOS (Applies to all iOS):```
 
 |Ứng Dụng|Tự động kích hoạt|Khôi phục mua hàng|Đăng nhập tài khoản|
-|--------------|:------:|:------|------:|
+|--------------|:------:|:------:|------:|
 |1. [Picsart Photo & Video Editor](https://apps.apple.com/us/app/picsart-photo-video-editor/id587366035) | ✅|
 |2. [KineMaster - Video Editor](https://apps.apple.com/us/app/kinemaster-video-editor/id1223932558) |✅|
 |3. [Unfold: Story & Collage Maker](https://apps.apple.com/us/app/unfold-story-collage-maker/id1247275033) |✅|
@@ -82,10 +82,10 @@
 |76. [MOLDIV - Photo Editor, Collage](https://apps.apple.com/us/app/moldiv-photo-editor-collage/id608188610) |✅|
 
 --------------------
-### ```Chỉ hỗ trợ iOS 13```
+### ```Chỉ hỗ trợ iOS 13 (Only support iOS 13):```
 
 |Ứng Dụng|Tự động kích hoạt|Khôi phục mua hàng|Đăng nhập tài khoản|
-|--------------|:------:|:------|------:|
+|--------------|:------:|:------:|------:|
 |1. [Videoleap Editor by Lightricks](https://apps.apple.com/us/app/videoleap-editor-by-lightricks/id1255135442) ||✅|
 |2. [Photoleap by Lightricks](https://apps.apple.com/us/app/photoleap-by-lightricks/id1191337894) ||✅|
 |3. [Lightleap by Lightricks](https://apps.apple.com/us/app/lightleap-by-llightricks/id1254875992) ||✅|
