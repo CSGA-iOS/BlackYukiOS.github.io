@@ -1,6 +1,6 @@
 # Welcome!
 
-```Website details:_https://blackyukios.cf/_ ```
+```Website details:* https://blackyukios.cf/ * ```
 
 ## Danh sách ứng dụng đang được hỗ trợ (List of currently supported applications):
 
