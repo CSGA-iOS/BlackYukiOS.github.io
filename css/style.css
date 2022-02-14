@@ -81,35 +81,6 @@ background-position:-135px -8px;
 a i.youtube{
 background-position:-180px -9px;
 }
-.search {
-  position: relative;
-  float: left;
-  width:40%;
-  margin-left:10em;
-}
-.search input[type="text"] {
-  padding: 6px 10px 6px 0px;
-  outline: none;
-  color: #fff;
-  background: none;
-  border: none;
-  width: 88%;
-  position: relative;
-  font-size: 0.9em;
-  -webkit-appearance: none;
-  margin-left: 3em;
-}
-.search input[type="submit"] {
-  background: url('../images/search1.png') no-repeat 0px 1px;
-  border: none;
-  cursor: pointer;
-  width: 24px;
-  outline: none;
-  position: absolute;
-  height: 24px;
-  top: 3px;
-  left: 8px;
-}
 .headr-right {
   float: left;
 }
@@ -1051,84 +1022,9 @@ font-weight:600;
 .coment-form {
   margin-top: 46px;
 }
-/*--//single-page--*/
-.pages {
-	padding: 3em 0px;
-}
-h3.ghj {
-	color: #000;
-	font-size: 2em !important;
-	margin: 0 0 1em;
-}
-.headdings, .Buttons, .progress-bars, .alerts, .bread-crumbs, .pagenatin, .appearance, .distracted {
-	padding: 2em 0;
-}
-.breadcrumb {
-	margin-bottom: 3em !important;
-}
-.table {
-	margin-bottom: 0;
-}
-.b4,.b5,.b6 {
-  margin-top: 15px !important;
-  margin-bottom: 15px !important;
-}
-.bs-example h1, .bs-example hh2, .bs-example h3, .bs-example h4, .bs-example h5, .bs-example h6 {
-  margin: 0 0 10px;
-}
-/*--gallery-Part-Here --*/
-.gallery{
-	padding:3em 0;
-}
-.gallery-bottom{
-	margin-top:2em;
-}
-.gallery-left img{
-	width:100%;
-}
-.gallery-left:hover img {
-  -webkit-filter: grayscale(100%);
-  opacity:8;
-  transition: all 300ms!important;
-  -webkit-transition: all 300ms!important;
-  -moz-transition: all 300ms!important;
-}
-.gallery-left{
-	position: relative;
-}
-.gallery-grid img{
-	width:100%;
-}
-.gallery-grid:hover img {
-  -webkit-filter: grayscale(100%);
-  opacity:8;
-  transition: all 300ms!important;
-  -webkit-transition: all 300ms!important;
-  -moz-transition: all 300ms!important;
-}
-.gallery-grid{
-	position: relative;
-}
-.gallery-1{
-	margin-top:25px;
-}
-.gallery-1:nth-child(1){
-	margin-top:0;
-}
-/*--gallery-Part-Ends-Here --*/
-/*--contact--*/
-.contact{
-padding:3em 0; 
-}
-.contact-left{
-padding-left:0;
-}
-.contact form{
-	margin-top:2em;
-}
-.contact-head{
-padding:0em 0 2em 0;
-}
+
+
+/*--List--*/
 .tabs-outer {
 position: relative;
 background: transparent;
@@ -1183,6 +1079,83 @@ background-color: #c2d8fa;
 border-top-left-radius: 5px;
 border-top-right-radius: 5px;
 }
+
+/*--List--*/
+* {
+  	box-sizing: border-box;
+  	font-family: -apple-system, BlinkMacSystemFont, "segoe ui", roboto, oxygen, ubuntu, cantarell, "fira sans", "droid sans", "helvetica neue", Arial, sans-serif;
+  	font-size: 16px;
+  	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;
+}
+body {
+  	background-color: #435165;
+  	margin: 0;
+}
+.register {
+  	width: 400px;
+  	background-color: #ffffff;
+  	box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.3);
+  	margin: 100px auto;
+}
+.register h1 {
+  	text-align: center;
+  	color: #5b6574;
+  	font-size: 24px;
+  	padding: 20px 0 20px 0;
+  	border-bottom: 1px solid #dee0e4;
+}
+.register form {
+  	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
+  	padding-top: 20px;
+}
+.register form label {
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	width: 50px;
+ 	height: 50px;
+  	background-color: #3274d6;
+  	color: #ffffff;
+}
+.register form input[type="password"], .register form input[type="text"], .register form input[type="email"] {
+  	width: 310px;
+  	height: 50px;
+  	border: 1px solid #dee0e4;
+  	margin-bottom: 20px;
+  	padding: 0 15px;
+}
+.register form input[type="submit"] {
+  	width: 100%;
+  	padding: 15px;
+  	margin-top: 20px;
+  	background-color: #3274d6;
+ 	border: 0;
+  	cursor: pointer;
+  	font-weight: bold;
+  	color: #ffffff;
+  	transition: background-color 0.2s;
+}
+.register form input[type="submit"]:hover {
+	background-color: #2868c7;
+  	transition: background-color 0.2s;
+}
+/*--List--*/
+.contact{
+padding:3em 0; 
+}
+.contact-left{
+padding-left:0;
+}
+.contact form{
+	margin-top:2em;
+}
+.contact-head{
+padding:0em 0 2em 0;
+}
+
 .contact form input[type="text"],.contact form input[type="email"],.contact-right textarea {
 width: 100%;
 padding: 10px 12px;
