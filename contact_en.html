@@ -20,6 +20,12 @@ Author URL: blackyukios.cf
 <!-- Favicon -->
 <link rel="icon" href="/images/favicon.png">
 
+<!-- REG LINEARICONS -->
+<link rel="stylesheet" href="/fonts/linearicons/style.css">
+		
+<!-- REG STYLE CSS -->
+<link rel="stylesheet" href="/css/style_reg.css">
+
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -91,28 +97,39 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!---->
 <div class="contact">
 	 <div class="container">
-		 <div class="register">
-			<h1>Register</h1>
-			<form action="https://www.blackyukios.tk/register.php" method="post" autocomplete="off">
-				<label for="username">
-					<i class="fas fa-user"></i>
-				</label>
-				<input type="text" name="username" placeholder="Username" id="username" required>
-				<label for="password">
-					<i class="fas fa-lock"></i>
-				</label>
-				<input type="password" name="password" placeholder="Password" id="password" required>
-				<label for="ip">
-					<i class="fas fa-address-card"></i>
-				</label>
-				<input type="text" name="ip" placeholder="IP Address" id="ip" required>
-				<label for="email">
-					<i class="fas fa-envelope"></i>
-				</label>
-				<input type="email" name="email" placeholder="Email" id="email" required>
-				<input type="submit" value="Register">
-			</form>
-		</div>	
+		 <div class="wrapper">
+			<div class="inner">
+				<img src="images/image-1.png" alt="" class="image-1">
+				<form action="https://blackyukios.tk/register.php" method="post" autocomplete="off">
+					<h3>New Account?</h3>
+					<div class="form-holder">
+						<span class="lnr lnr-user"></span>
+						<input type="text" class="form-control" name="username" placeholder="Username" id="username" required>
+					</div>
+					<div class="form-holder">
+						<span class="lnr lnr-lock"></span>
+						<input type="password" class="form-control" name="password"  placeholder="Password" id="password" required>
+					</div>
+					<div class="form-holder">
+						<span class="lnr lnr-phone-handset"></span>
+						<input type="text" class="form-control" name="ip" placeholder="IP Address" id="ip" required>
+					</div>
+					<div class="form-holder">
+						<span class="lnr lnr-envelope"></span>
+						<input type="text" class="form-control" name="email" placeholder="Email (Apple ID, Gmail,...)" id="email" required>
+					</div>
+					<div class="form-holder">
+						<span class="lnr lnr-lock"></span>
+						<input type="text" class="form-control" name="contry"  placeholder="Password" id="password" required>
+					</div>
+					<button>
+						<span>Register</span>
+					</button>
+				</form>
+				<img src="images/image-2.png" alt="" class="image-2">
+			</div>
+			
+		</div>
 	 </div>
 </div>
 <!-- footer -->
@@ -121,8 +138,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		 <div class="footer-grids">
 			 <div class="col-md-3 ftr-info">
 				 <h3>About Us</h3>
-				 <p>Support iOS apps and games. 
-				 Giving you the fullest experience on your beloved phone.</p>
+				 <p>Support iOS apps and games.
+				 Giving you the fullest experience on your beloved phone</p>
 			 </div>
 			 <div class="col-md-3 ftr-grid">
 				 <h3>Categories</h3>
@@ -165,7 +182,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </div>
 <!---->
  
-
+<script src="/js/jquery-3.3.1.min.js"></script>
+<script src="/js/main.js"></script>
 
 </body>
 </html>
